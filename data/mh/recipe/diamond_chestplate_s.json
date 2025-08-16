@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      "minecraft:diamond"
+    ],
+    [
+      "minecraft:diamond_chestplate"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:diamond_chestplate",
+    "components": {
+      "minecraft:item_model": "hci:diamond_chestplate_s"
+    }
+  }
+}
